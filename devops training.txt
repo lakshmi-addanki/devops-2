@@ -2,3 +2,4 @@ devops practice:
 learned about devops cultural philosophys
 learned about devops practices
 learning devops tools are
+ presently knowing of git and working on it
